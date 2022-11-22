@@ -1,1 +1,1 @@
-# .github
+# MTÜ Rattaga Kooli
